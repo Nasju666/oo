@@ -1,5 +1,9 @@
 gobuster & seclists
 
+cd /usr/share/seclists/Discovery/Web-Content
+
+gobuster dir -w common.txt -u http://
+
 cd /usr/share/seclists
 
 # Copy both files to Desktop
