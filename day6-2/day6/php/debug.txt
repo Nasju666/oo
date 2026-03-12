@@ -1,0 +1,13 @@
+Array
+(
+    [0] => Array
+        (
+            [product_id] => 1
+            [product_name] => Piatos
+            [category] => Snacks
+            [price] => 20.00
+            [quantity] => 1
+            [subtotal] => 20.00
+        )
+
+)
